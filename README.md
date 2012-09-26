@@ -1,4 +1,4 @@
-notes
+# My notes about stuff
 =====
 
-notes
+Starting a new repo
